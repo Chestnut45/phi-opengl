@@ -1,5 +1,7 @@
-# Phi
+*NOTICE*
+This repository contains an early prototype version of the Phi Engine which is no longer being actively maintained.
 
+# Phi
 ![voxel_screenshot.png](https://github.com/Chestnut45/phi/blob/main/screenshots/voxel_screenshot.png)
 
 Phi is a C++ desktop application framework and OpenGL micro-engine meant primarily for video game prototyping and development on Linux and Windows.
