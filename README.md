@@ -1,4 +1,4 @@
-*NOTICE*
+*NOTICE:*\
 This repository contains an early prototype version of the Phi Engine which is no longer being actively maintained.
 
 # Phi
